@@ -2,16 +2,29 @@
 
 var http = require('http'),
     ss = require('socketstream');
+    mongoose = require('mongoose');
+
+mongoose.connect('mongodb://127.0.0.1/terrain');
+db = mongoose.connection;
+db.on('error', console.error.bind(console, 'connection error:'));
+db.once('open', function(callback){
+  console.log('db conntected');
+});
 
 // Define a single-page client called 'main'
 ss.client.define('main', {
   view: 'app.html',
-  css:  ['libs/reset.css', 'app.styl'],
+  css:  [
+    'libs/reset.css', 
+    'libs/bootstrap/bootstrap.min.css', 
+    'libs/bootstrap/bootstrap-theme.min.css'
+    ],
   code: [
   	'libs/jquery.min.js', 
-  	'libs/angular/angular.js',
   	'libs/three/three.min.js',
-  	'app'],
+    'libs/bootstrap/bootstrap.js',
+    'libs/angular/angular.js',
+    'app'],
   tmpl: '*'
 });
 

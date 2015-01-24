@@ -2,8 +2,17 @@
 
 // Make 'ss' available to all modules and the browser console
 window.ss = require('socketstream');
-    
-var app = angular.module('QRAGeditor', []);
+  
+var app = angular.module('TerrainEditor', []);
+require('/controllers/HomeController');
+app.directive('scene', function(){
+	return {
+		template: "Name",
+		link: function(scope, element){
+			alert('test');
+		}
+	};
+});
 ss.server.on('disconnect', function(){
   console.log('Connection down :-(');
 });
@@ -17,8 +26,6 @@ ss.server.on('ready', function(){
   // Wait for the DOM to finish loading
   jQuery(function(){
     // Load app
-    require('/app');
-
   });
 
 });

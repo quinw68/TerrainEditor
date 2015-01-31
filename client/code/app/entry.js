@@ -5,6 +5,7 @@ window.ss = require('socketstream');
   
 var app = angular.module('TerrainEditor', []);
 require('/controllers/HomeController');
+require('/directives/ss-include');
 app.directive('scene', function(){
 	return {
 		template: "Name",

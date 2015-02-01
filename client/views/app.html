@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="TerrainEditor">
   <head>
     <meta charset="utf-8"/>
     <SocketStream/>
     <title>Welcome</title>
   </head>
-  <body ng-app="TerrainEditor">
+  <body>
     <div ng-controller="HomeCtrl">
       <button class="btn btn-default" ng-click="ShowScene()">Go to the scene</button>
-      <ss-include template="terrain-scene"></ss-include>
+      <div ng-include="'terrain-scene.html'"></div>
     </div>
   </body>
 </html>

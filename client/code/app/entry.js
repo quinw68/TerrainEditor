@@ -6,14 +6,14 @@ window.ss = require('socketstream');
 var app = angular.module('TerrainEditor', []);
 require('/controllers/HomeController');
 require('/directives/ss-include');
-app.directive('scene', function(){
-	return {
-		template: "Name",
-		link: function(scope, element){
-			alert('test');
-		}
-	};
-});
+// app.directive('scene', function(){
+// 	return {
+// 		template: "Name",
+// 		link: function(scope, element){
+// 			alert('test');
+// 		}
+// 	};
+// });
 ss.server.on('disconnect', function(){
   console.log('Connection down :-(');
 });

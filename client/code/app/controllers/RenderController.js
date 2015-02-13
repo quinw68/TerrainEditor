@@ -1,1 +1,1 @@
-app.controller('RenderController', [])
+app.controller('RenderController', []);

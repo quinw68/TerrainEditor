@@ -1,0 +1,6 @@
+.scene{
+ 	height: 100%;
+}
+.scene canvas{
+	vertical-align: bottom;
+}

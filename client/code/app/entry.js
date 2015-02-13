@@ -3,17 +3,11 @@
 // Make 'ss' available to all modules and the browser console
 window.ss = require('socketstream');
   
-var app = angular.module('TerrainEditor', []);
+var app = angular.module('terrainEditor', []);
 require('/controllers/HomeController');
-require('/directives/ss-include');
-// app.directive('scene', function(){
-// 	return {
-// 		template: "Name",
-// 		link: function(scope, element){
-// 			alert('test');
-// 		}
-// 	};
-// });
+require('/controllers/PanelController');
+require('/services/RenderService');
+require('/directives/scene');
 ss.server.on('disconnect', function(){
   console.log('Connection down :-(');
 });

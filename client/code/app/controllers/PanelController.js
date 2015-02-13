@@ -1,4 +1,10 @@
-var app = angular.module('TerrainEditor');
-app.controller('PanelCtrl', ['$scope', function($scope){
+var app = angular.module('terrainEditor');
+var NavBarOption = function(title, dropdownOptions){
 	
+}
+app.controller('PanelController', ['$scope', function($scope){
+	$scope.NavBar = [
+		'Home',
+		{  }
+	];
 }]);

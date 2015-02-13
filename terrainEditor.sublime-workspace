@@ -1,0 +1,761 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Response",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"getA",
+				"getAnnotationKeys"
+			],
+			[
+				"show",
+				"showSpinner"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"vc",
+				"vcf-form"
+			],
+			[
+				"vcf",
+				"vcf-form"
+			],
+			[
+				"tur",
+				"turningJoystickSpeed"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/views/app.html",
+			"settings":
+			{
+				"buffer_size": 443,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/code/app/entry.js",
+			"settings":
+			{
+				"buffer_size": 669,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/templates/terrain/scene.html",
+			"settings":
+			{
+				"buffer_size": 44,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/code/app/controllers/RenderController.js",
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/code/app/controllers/HomeController.js",
+			"settings":
+			{
+				"buffer_size": 257,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/code/app/services/RenderService.js",
+			"settings":
+			{
+				"buffer_size": 1327,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/css/libs/scene.css",
+			"settings":
+			{
+				"buffer_size": 24,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/css/libs/reset.css",
+			"settings":
+			{
+				"buffer_size": 1129,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/code/app/directives/scene.js",
+			"settings":
+			{
+				"buffer_size": 213,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/code/app/controllers/PanelController.js",
+			"settings":
+			{
+				"buffer_size": 112,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/GoSublime/GoSublime.sublime-build",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Con",
+				"Package Control: Install Package"
+			],
+			[
+				"PackageCon",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/dev/TerrainEditor/terrainEditor.sublime-workspace",
+		"/C/dev/TerrainEditor/terrainEditor.sublime-project",
+		"/C/dev/TerrainEditor/client/code/app/services/RenderService.js",
+		"/C/dev/TerrainEditor/client/code/app/controllers/PanelController.js",
+		"/C/dev/TerrainEditor/client/css/app.styl",
+		"/C/dev/TerrainEditor/app.js",
+		"/C/dev/TerrainEditor/client/css/libs/reset.css",
+		"/C/dev/TerrainEditor/node_modules/socketstream/lib/http/index.js",
+		"/C/dev/TerrainEditor/server/middleware/example.js",
+		"/C/dev/TerrainEditor/node_modules/socketstream/lib/request/middleware/internal.js",
+		"/C/dev/TerrainEditor/node_modules/socketstream/lib/request/middleware/index.js",
+		"/C/dev/TerrainEditor/node_modules/socketstream/node_modules/connect/lib/middleware/directory.js",
+		"/C/dev/TerrainEditor/node_modules/socketstream/lib/http/router.js",
+		"/C/dev/TerrainEditor/client/code/app/controllers/HomeController.js",
+		"/C/dev/TerrainEditor/client/code/app/directives/ss-include.js",
+		"/C/dev/TerrainEditor/client/code/app/entry.js",
+		"/C/dev/test/test_app/app.js",
+		"/C/dev/TerrainEditor/node_modules/socketstream/lib/socketstream.js",
+		"/C/dev/test/test_app/node_modules/ss-hogan/engine.js",
+		"/C/dev/TerrainEditor/node_modules/ss-hogan/client.js",
+		"/C/dev/TerrainEditor/node_modules/ss-angular-templates/lib/engine.js",
+		"/C/dev/test/test_app/client/code/app/app.js",
+		"/C/dev/test/test_app/client/code/app/entry.js",
+		"/C/dev/TerrainEditor/server/rpc/auth.js",
+		"/C/dev/TerrainEditor/client/templates/chat/message.html",
+		"/C/dev/test/test_app/client/templates/chat/message.html",
+		"/C/dev/test/test_app/client/views/app.html",
+		"/C/dev/TerrainEditor/client/code/app/services/Renderer.js",
+		"/D/dev/QRAG/public/javascripts/Core/Renderer/Renderer.js",
+		"/D/dev/QRAG/app.js",
+		"/C/Users/Quin/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/dev/TerrainEditor/server/rpc/app.js",
+		"/C/dev/TerrainEditor/client/code/app/controllers/RenderController.js",
+		"/C/dev/TerrainEditor/client/code/app/app.js",
+		"/C/dev/TerrainEditor/node_modules/socketstream/lib/cli/generate.js",
+		"/C/Users/Quin/AppData/Roaming/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+		"/C/dev/Go/src/annotator/annotation/mongoAnnotator.go",
+		"/C/dev/Go/src/annotator/annotation/compoundAnnotator.go",
+		"/C/dev/Go/src/annotator/variant/variants.go",
+		"/C/dev/Go/src/annotator/annotation/annotators.go",
+		"/C/dev/Go/src/annotator/annotation/annotation.go",
+		"/C/dev/Go/src/annotator/web/webWorkItem.go",
+		"/C/dev/Go/src/annotator/workqueue/workqueue.go",
+		"/C/dev/Go/src/annotator/web/web.go",
+		"/C/dev/Go/src/annotator/annotation/annotationContainer.go",
+		"/C/dev/Go/src/annotator/annotation/rangeAnnotator.go",
+		"/C/dev/Go/src/annotator/annotation/rangeAnnotator_test.go",
+		"/C/Users/Quin/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/dev/TerrainEditor/client/css/libs/bootstrap/bootstrap.css",
+		"/C/dev/TerrainEditor/node_modules/bootstrap/dist/js/bootstrap.min.js",
+		"/C/dev/TerrainEditor/client/code/libs/three/three.js",
+		"/C/dev/TerrainEditor/server/rpc/demo.js",
+		"/C/dev/Go/src/annotator/html/css/main.css",
+		"/C/dev/Go/src/annotator/html/annotate.html",
+		"/C/dev/Go/src/annotator/html/js/main.js",
+		"/C/nodejs/QRAG/app.js",
+		"/C/dev/Go/src/annotator/data/inputfiles/test-some.vcf",
+		"/C/dev/QRAG/client/code/app/app.js",
+		"/C/nodejs/QRAG/client/code/app/app.js",
+		"/C/nodejs/QRAG/client/code/app/entry.js",
+		"/C/nodejs/QRAG/client/views/app.html",
+		"/C/nodejs/QRAG/client/code/libs/angular/angular.min.js",
+		"/C/nodejs/QRAG/client/code/libs/angular/angular.js",
+		"/C/nodejs/QRAG/node_modules/three/package.json",
+		"/C/nodejs/QRAG/node_modules/three/src/Three.js",
+		"/C/nodejs/QRAG/client/code/libs/jquery.min.js",
+		"/C/nodejs/QRAG/package.json",
+		"/C/nodejs/QRAG/node_modules/angular/angular.js",
+		"/C/nodejs/QRAG/node_modules/angular/package.json",
+		"/C/nodejs/Tet/QRAG/client/code/app/entry.js",
+		"/C/nodejs/QRAG/node_modules/socketstream/lib/client/template_engines/angular.js",
+		"/C/nodejs/Tet/QRAG/node_modules/socketstream/new_project/client/code/app/entry.js",
+		"/C/nodejs/Tet/QRAG/app.js",
+		"/C/nodejs/Tet/QRAG/package.json",
+		"/C/nodejs/Tet/QRAG/node_modules/socketstream/package.json",
+		"/C/nodejs/Tet/QRAG/node_modules/ss-angular/lib/client/client.js",
+		"/D/Users/Quin/Documents/RiftProject/volume_loader/index.html",
+		"/D/Users/Quin/Documents/RiftProject/stl_loader/stl.html",
+		"/D/Users/Quin/Documents/RiftProject/stl_loader/lib/Loader.js",
+		"/D/Users/Quin/Documents/RiftProject/stl_loader/volume.html",
+		"/D/Users/Quin/Documents/RiftProject/stl_loader/lib/RiftCamera.js",
+		"/D/Users/Quin/Documents/RiftProject/stl_loader/lib/Input.js",
+		"/D/Users/Quin/Documents/RiftProject/stl_loader/lib/gamepad.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\dev\\TerrainEditor",
+			"C:\\dev\\Go\\src\\annotator"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TerrainEditor",
+			"middleware",
+			"ng-",
+			"entry",
+			"newcompount",
+			"createsingle",
+			"createsingl",
+			"newsimplevariant",
+			"singleann",
+			"createannotationhander",
+			"newsimplevariant",
+			"varianter",
+			"single",
+			"createsingle",
+			"createbatched",
+			"createsingle",
+			"annotator",
+			"createbatchedannotationset",
+			"perform",
+			"performwork",
+			"newdispatcher",
+			"vint",
+			"newannotatorwork",
+			"single",
+			"processqueue",
+			"newsimplevariant",
+			"responsewriter",
+			"createannotation",
+			"jquery",
+			"window",
+			"initgeom",
+			"bodyangle",
+			"rotat",
+			"rotation",
+			"forwardjoystic",
+			"progress",
+			"autocl",
+			"riftcam",
+			"turningjoystick",
+			"movefor",
+			"initgeome"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/views/app.html",
+					"settings":
+					{
+						"buffer_size": 443,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"codeintel": true,
+							"codeintel_database_dir": "~/.codeintel",
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Node.js",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_exclude_scopes_from_complete_triggers":
+							[
+								"comment"
+							],
+							"codeintel_language_settings":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_exclude_dir":
+									[
+										"/build/",
+										"/min/"
+									],
+									"codeintel_scan_extra_dir":
+									[
+									],
+									"codeintel_scan_files_in_project": false,
+									"codeintel_selected_catalogs":
+									[
+										"jQuery"
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 15,
+									"codeintel_scan_exclude_dir":
+									[
+										"/Applications/MAMP/bin/php/php5.5.3/"
+									],
+									"codeintel_scan_extra_dir":
+									[
+									],
+									"codeintel_scan_files_in_project": true,
+									"php": "/Applications/MAMP/bin/php/php5.5.3/bin/php"
+								},
+								"Python3":
+								{
+									"codeintel_scan_extra_dir":
+									[
+										"/Applications/Sublime Text.app/Contents/MacOS",
+										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/arch",
+										"~/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/libs"
+									],
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+									],
+									"python3": "/usr/local/bin/python3.3"
+								}
+							},
+							"codeintel_live": true,
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							[
+							],
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"codeintel_word_completions": "buffer",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/code/app/entry.js",
+					"settings":
+					{
+						"buffer_size": 669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/templates/terrain/scene.html",
+					"settings":
+					{
+						"buffer_size": 44,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/code/app/controllers/RenderController.js",
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/code/app/controllers/HomeController.js",
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "client/code/app/services/RenderService.js",
+					"settings":
+					{
+						"buffer_size": 1327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								590,
+								590
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "client/css/libs/scene.css",
+					"settings":
+					{
+						"buffer_size": 24,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "client/css/libs/reset.css",
+					"settings":
+					{
+						"buffer_size": 1129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "client/code/app/directives/scene.js",
+					"settings":
+					{
+						"buffer_size": 213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "client/code/app/controllers/PanelController.js",
+					"settings":
+					{
+						"buffer_size": 112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://C:\\dev\\Go\\src\\annotator\\web":
+	{
+		"height": 118.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/dev/TerrainEditor/client/views/app.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true
+}

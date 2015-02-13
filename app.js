@@ -15,7 +15,8 @@ var http = require('http'),
 ss.client.define('main', {
   view: 'app.html',
   css:  [
-    'libs/reset.css', 
+    'libs/reset.css',
+    'libs/scene.css', 
     'libs/bootstrap/bootstrap.min.css', 
     'libs/bootstrap/bootstrap-theme.min.css'
     ],

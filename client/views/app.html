@@ -1,13 +1,21 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="TerrainEditor">
+<html lang="en" ng-app="terrainEditor">
   <head>
     <meta charset="utf-8"/>
     <SocketStream/>
     <title>Welcome</title>
   </head>
   <body>
-    <div ng-controller="HomeCtrl">
-      <button class="btn btn-default" ng-click="ShowScene()">Go to the scene</button>
+    <div ng-controller="HomeController">
+      <div ng-controller="PanelController as panel">
+        <div id="navbar" class="navbar">
+          <ul>
+            <li ng-repeat="nav in NavBar">
+              test
+            </li>
+          </ul>
+        </div>
+      </div>
       <div ng-include="'terrain-scene.html'"></div>
     </div>
   </body>

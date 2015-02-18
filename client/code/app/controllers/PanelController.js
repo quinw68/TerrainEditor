@@ -1,10 +1,18 @@
-var app = angular.module('terrainEditor');
-var NavBarOption = function(title, dropdownOptions){
-	
+(function(){
+var panelController = function($scope){
+    $scope.NavBar = [
+        { Title: 'Home', Url: '' },
+        { 
+            Title: 'Dropdown',
+            SubMenus: [
+                { Title: 'Option 1', Url: 'Opt1' },
+                { Title: 'Option 2', Url: 'Opt2' }
+            ]
+        },
+        { Title: 'Non-Dropdown', Url: 'Section' }
+    ];
 }
-app.controller('PanelController', ['$scope', function($scope){
-	$scope.NavBar = [
-		'Home',
-		{  }
-	];
-}]);
+
+var app = angular.module('terrainEditor');
+app.controller('PanelController', ['$scope', panelController]);
+})();

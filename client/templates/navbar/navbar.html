@@ -1,0 +1,26 @@
+<div ng-controller="PanelController as panel">
+
+    <div id="navbar" class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class=navbar-header>
+                <a class="navbar-brand" href="#">Terrain Editor</a>
+            </div>
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li ng-repeat="nav in NavBar" ng-class="{dropdown: nav.SubMenus}">
+                        <ul ng-if="nav.SubMenus" class="dropdown-menu" role="menu">
+                            <li ng-repeat="sub in nav.SubMenus">
+                                <a href="{{sub.Url}}">{{sub.Title}}</a>
+                            </li>
+                        </ul>
+                        <a href="{{nav.Url}}" ng-attr-data-toggle="nav.SubMenus && dropdown">
+                            {{nav.Title}}
+                            <span class="caret" ng-if="nav.SubMenus"></span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</div>

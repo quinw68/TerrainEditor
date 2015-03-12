@@ -5,8 +5,11 @@ window.ss = require('socketstream');
   
 var app = angular.module('terrainEditor', []);
 require('/controllers/HomeController');
+require('/controllers/SceneController');
 require('/controllers/PanelController');
 require('/services/RenderService');
+require('/models/User');
+require('/models/Terrain');
 require('/directives/scene');
 ss.server.on('disconnect', function(){
   console.log('Connection down :-(');

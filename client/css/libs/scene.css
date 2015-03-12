@@ -1,6 +1,10 @@
 .scene{
- 	height: 100%;
+ 	position:relative;
 }
 .scene canvas{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
 	vertical-align: bottom;
 }

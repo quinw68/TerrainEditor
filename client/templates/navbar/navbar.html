@@ -13,7 +13,7 @@
                                 <a href="{{sub.Url}}">{{sub.Title}}</a>
                             </li>
                         </ul>
-                        <a href="{{nav.Url}}" ng-attr-data-toggle="nav.SubMenus && dropdown">
+                        <a href="{{nav.Url}}" data-toggle="{{nav.SubMenus ? 'dropdown' : ''}}">
                             {{nav.Title}}
                             <span class="caret" ng-if="nav.SubMenus"></span>
                         </a>

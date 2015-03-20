@@ -12,7 +12,7 @@
         // create a new mesh with
         // sphere geometry - we will cover
         // the sphereMaterial next!
-        var geo = new THREE.PlaneGeometry(50,20);
+        var geo = new THREE.PlaneGeometry(50,40);
         terrain.Mesh = new THREE.Mesh(geo, mat)
         return terrain;
     };

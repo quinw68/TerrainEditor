@@ -39,7 +39,7 @@ ss.http.route('/', function(req, res){
 
 // Use server-side compiled Hogan (Mustache) templates. Others engines available
 ss.client.templateEngine.use('angular');
-
+//ss.client.set({liveReload: false});
 // Minimize and pack assets if you type: SS_ENV=production node app.js
 if (ss.env === 'production') ss.client.packAssets();
 

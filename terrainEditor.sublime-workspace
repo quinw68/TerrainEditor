@@ -43,7 +43,7 @@
 			"file": "client/views/app.html",
 			"settings":
 			{
-				"buffer_size": 443,
+				"buffer_size": 329,
 				"line_ending": "Windows"
 			}
 		},
@@ -51,39 +51,7 @@
 			"file": "client/code/app/entry.js",
 			"settings":
 			{
-				"buffer_size": 669,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/templates/terrain/scene.html",
-			"settings":
-			{
-				"buffer_size": 44,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/code/app/controllers/RenderController.js",
-			"settings":
-			{
-				"buffer_size": 39,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/code/app/controllers/HomeController.js",
-			"settings":
-			{
-				"buffer_size": 257,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/code/app/services/RenderService.js",
-			"settings":
-			{
-				"buffer_size": 1327,
+				"buffer_size": 763,
 				"line_ending": "Windows"
 			}
 		},
@@ -91,15 +59,7 @@
 			"file": "client/css/libs/scene.css",
 			"settings":
 			{
-				"buffer_size": 24,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "client/css/libs/reset.css",
-			"settings":
-			{
-				"buffer_size": 1129,
+				"buffer_size": 138,
 				"line_ending": "Windows"
 			}
 		},
@@ -107,15 +67,40 @@
 			"file": "client/code/app/directives/scene.js",
 			"settings":
 			{
-				"buffer_size": 213,
+				"buffer_size": 836,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "client/code/app/controllers/PanelController.js",
+			"file": "terrainEditor.sublime-workspace",
 			"settings":
 			{
-				"buffer_size": 112,
+				"buffer_size": 15746,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/code/app/models/User.js",
+			"settings":
+			{
+				"buffer_size": 312,
+				"line_ending": "Windows",
+				"name": "(function(){"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1316,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/code/app/services/RenderService.js",
+			"settings":
+			{
+				"buffer_size": 2054,
 				"line_ending": "Windows"
 			}
 		}
@@ -123,11 +108,35 @@
 	"build_system": "Packages/GoSublime/GoSublime.sublime-build",
 	"command_palette":
 	{
-		"height": 81.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
+				"UserSet	",
+				"GoSublime: User Settings"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
 				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Inst	",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: INSt",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install",
 				"Package Control: Install Package"
 			],
 			[
@@ -143,7 +152,7 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 400.0
+		"width": 472.0
 	},
 	"console":
 	{
@@ -160,20 +169,27 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Quin/AppData/Roaming/Sublime Text 2/Packages/User/GoSublime.sublime-settings",
+		"/C/Users/Quin/AppData/Roaming/Sublime Text 2/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Quin/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/dev/TerrainEditor/client/code/app/controllers/PanelController.js",
+		"/C/dev/TerrainEditor/client/css/libs/reset.css",
+		"/C/dev/TerrainEditor/client/code/app/services/RenderService.js",
+		"/C/dev/TerrainEditor/client/code/app/controllers/HomeController.js",
+		"/C/dev/TerrainEditor/client/code/app/controllers/RenderController.js",
+		"/C/dev/TerrainEditor/client/templates/terrain/scene.html",
+		"/C/dev/TerrainEditor/client/templates/navbar/navbar.html",
+		"/C/dev/TerrainEditor/client/code/libs/angular/angular.js",
 		"/C/dev/TerrainEditor/terrainEditor.sublime-workspace",
 		"/C/dev/TerrainEditor/terrainEditor.sublime-project",
-		"/C/dev/TerrainEditor/client/code/app/services/RenderService.js",
-		"/C/dev/TerrainEditor/client/code/app/controllers/PanelController.js",
 		"/C/dev/TerrainEditor/client/css/app.styl",
 		"/C/dev/TerrainEditor/app.js",
-		"/C/dev/TerrainEditor/client/css/libs/reset.css",
 		"/C/dev/TerrainEditor/node_modules/socketstream/lib/http/index.js",
 		"/C/dev/TerrainEditor/server/middleware/example.js",
 		"/C/dev/TerrainEditor/node_modules/socketstream/lib/request/middleware/internal.js",
 		"/C/dev/TerrainEditor/node_modules/socketstream/lib/request/middleware/index.js",
 		"/C/dev/TerrainEditor/node_modules/socketstream/node_modules/connect/lib/middleware/directory.js",
 		"/C/dev/TerrainEditor/node_modules/socketstream/lib/http/router.js",
-		"/C/dev/TerrainEditor/client/code/app/controllers/HomeController.js",
 		"/C/dev/TerrainEditor/client/code/app/directives/ss-include.js",
 		"/C/dev/TerrainEditor/client/code/app/entry.js",
 		"/C/dev/test/test_app/app.js",
@@ -192,7 +208,6 @@
 		"/D/dev/QRAG/app.js",
 		"/C/Users/Quin/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/dev/TerrainEditor/server/rpc/app.js",
-		"/C/dev/TerrainEditor/client/code/app/controllers/RenderController.js",
 		"/C/dev/TerrainEditor/client/code/app/app.js",
 		"/C/dev/TerrainEditor/node_modules/socketstream/lib/cli/generate.js",
 		"/C/Users/Quin/AppData/Roaming/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
@@ -262,6 +277,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"jquery",
 			"TerrainEditor",
 			"middleware",
 			"ng-",
@@ -321,7 +337,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -329,15 +345,15 @@
 					"file": "client/views/app.html",
 					"settings":
 					{
-						"buffer_size": 443,
+						"buffer_size": 329,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								362,
-								362
+								0,
+								0
 							]
 						],
 						"settings":
@@ -446,15 +462,15 @@
 					"file": "client/code/app/entry.js",
 					"settings":
 					{
-						"buffer_size": 669,
+						"buffer_size": 763,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								379,
-								379
+								0,
+								0
 							]
 						],
 						"settings":
@@ -470,24 +486,23 @@
 				},
 				{
 					"buffer": 2,
-					"file": "client/templates/terrain/scene.html",
+					"file": "client/css/libs/scene.css",
 					"settings":
 					{
-						"buffer_size": 44,
+						"buffer_size": 138,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								44,
-								44
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_complete": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -497,72 +512,18 @@
 				},
 				{
 					"buffer": 3,
-					"file": "client/code/app/controllers/RenderController.js",
+					"file": "client/code/app/directives/scene.js",
 					"settings":
 					{
-						"buffer_size": 39,
+						"buffer_size": 836,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								39,
-								39
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "client/code/app/controllers/HomeController.js",
-					"settings":
-					{
-						"buffer_size": 257,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								257,
-								257
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "client/code/app/services/RenderService.js",
-					"settings":
-					{
-						"buffer_size": 1327,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								590,
-								590
+								836,
+								836
 							]
 						],
 						"settings":
@@ -578,24 +539,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "client/css/libs/scene.css",
+					"buffer": 4,
+					"file": "terrainEditor.sublime-workspace",
 					"settings":
 					{
-						"buffer_size": 24,
+						"buffer_size": 15746,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								22,
-								22
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -604,24 +566,52 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "client/css/libs/reset.css",
+					"buffer": 5,
+					"file": "client/code/app/models/User.js",
 					"settings":
 					{
-						"buffer_size": 1129,
+						"buffer_size": 312,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								121,
-								121
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"auto_complete": false,
+							"auto_name": "(function(){",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 1316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -632,52 +622,26 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "client/code/app/directives/scene.js",
+					"buffer": 7,
+					"file": "client/code/app/services/RenderService.js",
 					"settings":
 					{
-						"buffer_size": 213,
+						"buffer_size": 2054,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								175,
-								175
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "client/code/app/controllers/PanelController.js",
-					"settings":
-					{
-						"buffer_size": 112,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								112,
-								112
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -694,7 +658,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"layout":
 	{
@@ -727,6 +691,10 @@
 	{
 		"height": 118.0
 	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
 	"replace":
 	{
 		"height": 0.0
@@ -737,6 +705,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"user",
+				"client/code/app/models/UserSettings.js"
+			],
+			[
+				"ren",
+				"client/code/app/services/RenderService.js"
+			],
 			[
 				"",
 				"/C/dev/TerrainEditor/client/views/app.html"
